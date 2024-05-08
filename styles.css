@@ -1,0 +1,233 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.head{
+    text-align: center;
+
+}
+
+
+#location{
+    display: flex;
+    align-items: center;
+    /* margin-left: 35%; */
+    gap: 20px;
+
+}
+
+
+
+
+#loca{
+    font-size: 50px;
+    color: #0ec0c0;
+}
+
+
+
+.Paris{
+    font-size: 30px;
+}
+
+
+
+.date{
+    font-size: 20px;
+     margin-left: 57px; 
+    margin-top: -5px;
+}
+
+
+#temp{
+    font-size: 50px;
+    color: red;
+}
+
+
+
+#temperature{
+    display: flex;
+    align-items: center;
+    /* margin-left: 35%; */
+    gap: 20px;
+
+}
+
+
+
+.deg{
+    font-size: 60px;
+    color: #1d8bc9
+}
+
+
+.para{
+    font-size: 20px;
+     margin-left: 52px; 
+    margin-top: -25px;
+}
+
+
+
+#mainDiv{
+    display: flex;
+    justify-content: center;
+    gap: 172px;
+
+}
+
+
+
+#sun{
+    
+    padding: 32px 87px;
+    font-size: 7rem;
+    background: #1d8bc9;
+    color: #fff;
+    border-style: none;
+
+}
+
+
+
+.para1{
+    text-align: center;
+    background: #ebc1c1;
+    padding: 16px 0px;
+    margin-top: 0px;
+}
+
+
+
+
+#logo{
+    /* margin-left: 89px; */
+    margin-top: 15px;
+}
+
+#section2{
+    margin-top: 15px;
+}
+
+
+#Sunrise{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+#Sunset{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+#persent{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+#arrow{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#logo1{
+    font-size:60px;
+}
+
+#section3{
+    display: flex;
+    justify-content: center;
+    margin: 30px 44px;
+
+}
+
+.fa-solid{
+    font-size: 37px;
+    
+}
+
+
+
+.solid{
+    font-size: 50px;
+}
+
+
+.fa-cloud-sun{
+    color: rgb(243, 185, 38);
+
+}
+
+.fa-sun{
+    color:  rgb(243, 185, 38);
+}
+
+
+.fa-droplet{
+    color: #1d8bc9;
+}
+
+
+.fa-cloud-showers-heavy{
+    color: #1d8bc9;
+}
+
+
+.fa-cloud-moon-rain{
+    color: #0d4c6d;
+}
+
+
+.fa-cloud-bolt{
+    color: green;
+}
+
+
+.fa-cloud-rain{
+    color: #0ec0c0;
+}
+
+.fa-smog{
+
+    color: #1d8bc9;
+}
+
+
+
+#form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 58px;
+}
+
+input{
+    padding: 8px 61px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+
+
+.fa-search {
+    font-size: 20px;
+    background: #3aabab;
+    padding: 6px;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.search{
+    
+}
+
