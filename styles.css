@@ -3,6 +3,15 @@ body{
     padding: 0%;
 }
 
+#btn{
+    padding: 7px 10px;
+    border-radius: 20px ;
+    font-size: larger;
+    color: aliceblue;
+    background-color: #1d8bc9;
+    border: transparent;
+    cursor: pointer;
+}
 
 .head{
     text-align: center;
@@ -227,7 +236,5 @@ input{
     border-radius: 10px;
 }
 
-.search{
-    
-}
+
 
